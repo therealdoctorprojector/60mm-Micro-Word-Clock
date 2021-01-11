@@ -21,7 +21,7 @@ Added a USB socket for the power supply.
 
 The BOM is almost the same as the original project, with the following changes:
 
-You need the circuit board as described in the Eagle files attached. Or you can order it from here:
+You need the circuit board as described in the Eagle files attached. Or you can order it from here if you do not want to make any changes:
 
 https://oshpark.com/shared_projects/ba7Lkx4g
 
