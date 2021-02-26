@@ -34,3 +34,11 @@ The USB socket is "USB_MICRO-B_SMT" from the SparkFun Connectors library:
 https://www.sparkfun.com/products/retired/8533
 
 If you're making your own board, you can change the connector before sending _your_ PCB to your chosen manufacturer.
+
+26/2/2021
+
+Ready-to-roll word mask PCB here:
+
+https://oshpark.com/shared_projects/uc8ES2uw
+
+Not required, as there are other methods to make this part.
