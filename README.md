@@ -47,3 +47,9 @@ Ready-to-roll word mask PCB here:
 https://oshpark.com/shared_projects/uc8ES2uw
 
 Not required, as there are other methods to make this part.
+
+8/6/2021
+
+Alternative word mask PCB, with the copper on the uppermost layer:
+
+https://oshpark.com/shared_projects/ZUiYG7Su
