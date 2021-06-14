@@ -53,3 +53,7 @@ Not required, as there are other methods to make this part.
 Alternative word mask PCB, with the copper on the uppermost layer:
 
 https://oshpark.com/shared_projects/ZUiYG7Su
+
+14/6/2021
+
+Added the .brd files for the word masks, if you feel the need to make any changes to them.
